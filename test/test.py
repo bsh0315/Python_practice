@@ -1,2 +1,3 @@
-name = input("name\n")
-print(name)
+a = "asdfg"
+
+print(a[2::20])
